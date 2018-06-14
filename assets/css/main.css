@@ -3424,3 +3424,14 @@
 		margin: 0 auto;
 		float: none;
 	}
+
+.language {
+	position: absolute;
+	top: 25px;
+	right: 25px;
+	z-index: 1;
+}
+
+.language span:first {
+	padding-right: 100px;
+}
